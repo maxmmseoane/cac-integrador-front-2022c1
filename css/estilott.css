@@ -1,9 +1,16 @@
 .navbar{
     background-color: rgb(62, 62, 63);
 }
-h1{
-    color: white;
+html{
+    padding: 0px;
+    margin: 0%;
 }
-.imagen-fondo{
-    background-image:
+.texto{
+padding-top: 15rem;
+
+
+}
+.bs{
+    margin: auto;
+    padding: 2rem;
 }
