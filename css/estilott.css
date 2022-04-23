@@ -8,9 +8,24 @@ html{
 .texto{
 padding-top: 15rem;
 
-
 }
 .bs{
     margin: auto;
     padding: 2rem;
+}
+.row{
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+ul{
+    font-size: 1.3rem;
+    align-items: flex-end;
+}
+h1{
+    font: size 1.3rem;    
+}
+p{
+    font-size: ;
 }
