@@ -17,7 +17,6 @@ background-size: cover;
 background-position: center;
 
 }
-
 ul{
     font-size: 1.350rem;
     align-items: flex-end;
@@ -26,6 +25,14 @@ ul{
 #tp{
     font-size: 1.36rem;
 }
-p{
+p.card-text{
  font-size: 0.9rem;
+}
+
+#pesp{
+    font-size: 0.97rem;
+}
+.txthn{
+    padding-top: 1.5rem;
+    padding-left: 0.5rem;
 }
