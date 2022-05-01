@@ -4,11 +4,11 @@
 
 .texto{
 padding-top: 15rem;
-padding-right: 13rem;
+padding-right: 8rem;
 
 }
 .bs{
-padding-right: 13rem;
+padding-right: 8rem;
 }
 
 .row{
@@ -19,18 +19,13 @@ background-position: center;
 }
 
 ul{
-    font-size: 1.3rem;
+    font-size: 1.350rem;
     align-items: flex-end;
 }
-h1{
-    /*font: size 1.3rem;*/    
-}
+
 #tp{
-    font-size: 1.5rem;
+    font-size: 1.36rem;
 }
 p{
  font-size: 0.9rem;
-}
-h6{
-    margin-top: 10rem;
 }
